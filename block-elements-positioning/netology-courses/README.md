@@ -15,11 +15,11 @@
 
 Ваша помощь снова понадобилась на сайте «Нетологии». После того как была создана верстка раздела курсов, менеджер заметил, что **отступ сверху в блоке слишком большой**:
 
-![](https://netology-code.github.io/fpy-homeworks/sources/2-2/courses-before.jpg)
+![](https://github.com/netology-code/fpy-homeworks/blob/main/sources/2-2/courses-before.jpg)
 
 Вам нужно разобраться, что не так, и исправить ошибки, которые вы заметите, чтобы блок выглядел согласно макету:
 
-![](https://netology-code.github.io/fpy-homeworks/sources/2-2/courses-after.jpg)
+![](https://github.com/netology-code/fpy-homeworks/blob/main/sources/2-2/courses-after.jpg)
 
 ## Процесс реализации
 
