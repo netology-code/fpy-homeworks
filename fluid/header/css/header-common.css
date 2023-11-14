@@ -15,7 +15,7 @@ body {
   background: linear-gradient(to right, #7474bf, #348ac7);
 }
 
-@media screen and (max-width: 1023px){
+@media screen and (max-width: 912px){
 
   .header{
     background: linear-gradient(to right, #3498db, #9054a9);
